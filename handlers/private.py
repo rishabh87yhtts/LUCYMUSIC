@@ -44,10 +44,10 @@ async def start(_, message: Message):
                         "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/broken_starr")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/sanskari_userbot"
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/happyday_so"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/bot_sanskari_support"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/sanskari_fighter_op"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -64,15 +64,15 @@ async def start(client: Client, message: Message):
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
     await message.reply_text(
-        f"""✅ **ABHI SERVER ꜱᴇʀᴠᴇʀ ɪꜱ ʀᴜɴɴɪɴɢ**\n<b>💠 **ᴜᴘᴛɪᴍᴇ:**</b> `{uptime}`""",
+        f"""✅ ** ꜱᴇʀᴠᴇʀ ɪꜱ ʀᴜɴɴɪɴɢ**\n<b>💠 **ᴜᴘᴛɪᴍᴇ:**</b> `{uptime}`""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/bot_sanskari_support"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/sanskari_fighter_op"
                     ),
                     InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/sanskari_userbot"
+                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/happyday_so"
                     )
                 ]
             ]
