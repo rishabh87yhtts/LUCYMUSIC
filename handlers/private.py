@@ -41,17 +41,17 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/broken_starr")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/mafiarishabh")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/happyday_so"
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/ABHI_NETWORK"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/sanskari_fighter_op"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/LOCYS"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Tora_litiousmermaid"
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/SNEHU_IS_MINE"
                     )]
             ]
         ),
@@ -69,10 +69,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/sanskari_fighter_op"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/LOCYS"
                     ),
                     InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/happyday_so"
+                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABHI_NETWORK"
                     )
                 ]
             ]
