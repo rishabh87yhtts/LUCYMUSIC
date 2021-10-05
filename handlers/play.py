@@ -99,7 +99,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "EsportPlayer"
+        user.first_name = "AbhixPlayer"
     usar = user
     wew = usar.id
     try:
@@ -142,7 +142,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/e2985056a4f04fa0cc649.jpg"
+        thumb_name = "https://telegra.ph/file/ce58a28521b4c44315f2b.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -152,7 +152,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
-                        url="https://t.me/broken_starr")
+                        url="https://t.me/LOCYS")
                    
                 ]
             ]
@@ -190,7 +190,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
-                            url="https://t.me/broken_starr"),
+                            url="https://t.me/LOCYS"),
                         
 
                     ]
@@ -198,7 +198,7 @@ async def play(_, message: Message):
             )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/e2985056a4f04fa0cc649.jpg"
+            thumb_name = "https://telegra.ph/file/ce58a28521b4c44315f2b.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -206,7 +206,7 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
-                            url="https://t.me/broken_starr"),
+                            url="https://t.me/LOCYS"),
 
                         ]
                     ]
@@ -257,7 +257,7 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
-                            url="https://t.me/broken_starr"),
+                            url="https://t.me/LOCYS"),
 
                     ]
                 ]
