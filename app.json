@@ -1,8 +1,8 @@
 {
-  "name": "Patricia",
+  "name": "SNEHABHI MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HEXOROP/EsportPlayer",
+  "repository": "https://github.com/ABHINETWORK1/TEAM-ABHIMUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
